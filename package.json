@@ -1,0 +1,19 @@
+{
+  "name": "com.lucky.zora-unity-nft-display",
+  "version": "0.1.0-alpha",
+  "displayName": "Zora unity nft display",
+  "description": "Plugin to Unity that let you import NFT's metadata using Zora Api",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "licensesUrl": "https://github.com/lucasespinosa28/zora-unity-nft-displa/blob/main/LICENSE",
+  "keywords": [
+    "web3",
+    "nft",
+    "covalent"
+  ],
+  "author": {
+    "name": "lucas espinosa",
+    "email": "contact@lucasespinosa.com",
+    "url": "https://github.com/lucasespinosa28/zora-unity-nft-display"
+  }
+}
